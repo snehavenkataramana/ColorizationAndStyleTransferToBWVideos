@@ -1,0 +1,16 @@
+./results/siggraph_reg2/val_latest/images/00_fake_reg.png
+./results/siggraph_reg2/val_latest/images/10_fake_reg.png
+./results/siggraph_reg2/val_latest/images/20_fake_reg.png
+./results/siggraph_reg2/val_latest/images/30_fake_reg.png
+./results/siggraph_reg2/val_latest/images/40_fake_reg.png
+./results/siggraph_reg2/val_latest/images/50_fake_reg.png
+./results/siggraph_reg2/val_latest/images/60_fake_reg.png
+./results/siggraph_reg2/val_latest/images/70_fake_reg.png
+./results/siggraph_reg2/val_latest/images/80_fake_reg.png
+./results/siggraph_reg2/val_latest/images/90_fake_reg.png
+./results/siggraph_reg2/val_latest/images/100_fake_reg.png
+./results/siggraph_reg2/val_latest/images/110_fake_reg.png
+./results/siggraph_reg2/val_latest/images/120_fake_reg.png
+./results/siggraph_reg2/val_latest/images/130_fake_reg.png
+./results/siggraph_reg2/val_latest/images/140_fake_reg.png
+./results/siggraph_reg2/val_latest/images/150_fake_reg.png
